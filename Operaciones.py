@@ -1,10 +1,9 @@
 
 
-print("Ingrese el valor para A")
-A = int(input())
 
-print("Ingrese el valor para B")
-B = int(input())
+A = int(input("Ingrese el valor para A: "))
+print("")
+B = int(input("Ingrese el valor para B: "))
 
 
 
