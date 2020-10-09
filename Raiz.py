@@ -2,7 +2,7 @@ A = int(input("Ingrese el valor para A: "))
 print("")
 
 if A <= 0:
-    print("Error: El número ingresado es menor a 0")
+    print("Error: El número ingresado es 0 o menor a 0")
     exit()
 elif A > 0:
     cuadrado = A**A
